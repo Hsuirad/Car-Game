@@ -1,0 +1,13 @@
+body{
+    color:beige;
+    margin: 0;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+}
+#canvas{
+    background-color: rgb(32, 32, 32);
+    margin: auto;
+    display: block;
+}
